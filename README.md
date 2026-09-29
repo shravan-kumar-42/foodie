@@ -298,7 +298,7 @@ MySQL database
 Deployment
 
 
-## 👨‍💻 Author
+👨‍💻 Author
 
 Shravan Kumar G
 
