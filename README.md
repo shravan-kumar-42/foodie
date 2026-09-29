@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍴 Foodie - Food Ordering Web Application
 
 A responsive food ordering web application built using **React.js and Vite**.
@@ -291,3 +292,7 @@ This project is created for learning and educational purposes.
 ⭐ Support
 
 If you find this project useful, consider giving the repository a ⭐ on GitHub.
+=======
+# foodie
+A responsive food ordering web application built with React.js and Vite, featuring product search, category filtering, and shopping cart management.
+>>>>>>> 6a979e37b8e273e11e257a36938337ebd9cf633e
