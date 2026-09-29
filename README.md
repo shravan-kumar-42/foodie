@@ -300,12 +300,12 @@ Deployment
 
 ## 👨‍💻 Author
 
-**Shravan Kumar G**
+Shravan Kumar G
 
-- **GitHub:** [shravan-kumar-42](https://github.com/shravan-kumar-42)
-- **LinkedIn:** [Shravan Kumar G](https://www.linkedin.com/in/shravan-kumar-g-111720306)
-- **LeetCode:** [Shravankumar42](https://leetcode.com/u/Shravankumar42/)
-- **HackerRank:** [shravankumarg361](https://www.hackerrank.com/shravankumarg361)
+- GitHub: [shravan-kumar-42](https://github.com/shravan-kumar-42)
+- LinkedIn: [Shravan Kumar G](https://www.linkedin.com/in/shravan-kumar-g-111720306)
+- LeetCode: [Shravankumar42](https://leetcode.com/u/Shravankumar42/)
+- HackerRank: [shravankumarg361](https://www.hackerrank.com/shravankumarg361)
 
 📜 License
 
