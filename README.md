@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🍴 Foodie - Food Ordering Web Application
 
 A responsive food ordering web application built using **React.js and Vite**.
@@ -19,7 +18,7 @@ Foodie is a frontend food ordering application developed using React.js.
 
 The project focuses on building a clean, responsive, and interactive user interface using reusable React components, React Hooks, state management, conditional rendering, and responsive CSS.
 
-Users can:
+### Users can:
 
 - Browse food and drinks
 - Search for food items
@@ -74,6 +73,7 @@ Desserts
 Drinks
 Smoothies
 And more
+
 📱 Responsive Design
 
 The application is designed to work across:
@@ -97,6 +97,7 @@ Price
 Add to Cart button
 Quantity controls
 Quantity badge
+
 📄 About Section
 
 Provides information about the Foodie application and its features.
@@ -110,6 +111,7 @@ Phone
 Email
 Opening hours
 Contact form UI
+
 🛠️ Technologies Used
 Frontend
 React.js
@@ -132,13 +134,14 @@ List Rendering
 Array Methods
 State Management
 Component Reusability
+
+
 📂 Project Structure
 my-react-app/
 │
 ├── public/
 │
 ├── src/
-│   │
 │   ├── components/
 │   │   ├── ProductCard.jsx
 │   │   ├── About.jsx
@@ -153,16 +156,19 @@ my-react-app/
 │   └── main.jsx
 │
 ├── .gitignore
+├── eslint.config.js
 ├── index.html
 ├── package.json
 ├── package-lock.json
 ├── vite.config.js
 └── README.md
+
+
 ⚙️ Installation
 1. Clone the Repository
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/shravan-kumar-42/foodie.git
 2. Navigate to the Project
-cd my-react-app
+cd foodie
 3. Install Dependencies
 npm install
 4. Start the Development Server
@@ -171,6 +177,8 @@ npm run dev
 The application will be available at the local URL provided by Vite, usually:
 
 http://localhost:5173/
+
+
 🏗️ Build for Production
 
 To create a production build:
@@ -180,6 +188,8 @@ npm run build
 The production files will be generated in:
 
 dist/
+
+
 🔎 Preview Production Build
 
 After creating the production build:
@@ -197,32 +207,40 @@ Search
 Category
 Mobile Menu
 Cart Visibility
-Cart Flow
+
+
+🛒 Cart Flow
 User selects product
         ↓
    Add to Cart
         ↓
 Product added to cart
         ↓
-Quantity = 1
+   Quantity = 1
         ↓
-User clicks +
+   User clicks +
         ↓
-Quantity increases
+ Quantity increases
         ↓
-Cart total updates
-Search Flow
+  Cart total updates
+
+
+🔍 Search Flow
 User enters search
         ↓
 Product list is filtered
         ↓
 Matching products displayed
-Category Filter Flow
+
+
+🏷️ Category Filter Flow
 User selects category
         ↓
 Products are filtered
         ↓
 Selected category products displayed
+
+
 📊 Product Data
 
 Product information is stored in:
@@ -239,6 +257,8 @@ Each product contains information such as:
   rating: 4.7,
   image: "image-url"
 }
+
+
 🎯 Learning Objectives
 
 This project was created to practice and understand:
@@ -256,6 +276,8 @@ Category filtering
 Shopping cart logic
 Responsive CSS
 Git and GitHub workflow
+
+
 🔮 Future Improvements
 
 Possible future improvements include:
@@ -274,6 +296,8 @@ Admin dashboard
 Backend API
 MySQL database
 Deployment
+
+
 👨‍💻 Author
 
 Shravan Kumar G
@@ -285,6 +309,7 @@ GitHub: shravan-kumar-42
 LinkedIn: Shravan Kumar G
 LeetCode: Shravankumar42
 HackerRank: shravankumarg361
+
 📜 License
 
 This project is created for learning and educational purposes.
@@ -292,7 +317,3 @@ This project is created for learning and educational purposes.
 ⭐ Support
 
 If you find this project useful, consider giving the repository a ⭐ on GitHub.
-=======
-# foodie
-A responsive food ordering web application built with React.js and Vite, featuring product search, category filtering, and shopping cart management.
->>>>>>> 6a979e37b8e273e11e257a36938337ebd9cf633e
